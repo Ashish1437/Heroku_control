@@ -26,7 +26,7 @@ def delete_repo(client, message):
         # Extracting URL from the command
         url = message.text.split(" ", 1)[1].strip()
 
-        # Assuming the URL is in the format 'https://github.com/piyush4014/repo'
+        # Assuming the URL is in the format 'https://github.com/Ashish1437/Heroku_control'
         parts = url.split("/")
         username, repo_name = parts[-2], parts[-1]
 
