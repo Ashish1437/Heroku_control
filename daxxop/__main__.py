@@ -4,7 +4,7 @@ from pyrogram import idle
 from daxxop import daxxop
 from daxxop.modules import ALL_MODULES
 
-LOGGER_ID = -4224035727
+LOGGER_ID = -1002011084696
 
 loop = asyncio.get_event_loop()
 
