@@ -39,7 +39,7 @@ async def start(_, message):
           InlineKeyboardButton("๏ᴀᴅᴅ ᴍᴇ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ๏", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
         ],
         [
-          InlineKeyboardButton("๏sᴜᴘᴘᴏʀᴛ ᴛᴇᴀᴍ๏", url="https://t.me/dreamer_bots"),
+          InlineKeyboardButton("๏sᴜᴘᴘᴏʀᴛ ᴛᴇᴀᴍ๏", url="https://t.me/No_Requrmet_Bot"),
           InlineKeyboardButton("๏ᴍʏ ᴅᴇᴠʟᴏᴘᴇʀ๏", user_id=config.OWNER_ID)
         ],
         [
@@ -169,7 +169,7 @@ async def callback_query_handler(_, query):
               InlineKeyboardButton("๏ᴀᴅᴅ ᴍᴇ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ๏", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
             ],
             [
-              InlineKeyboardButton("๏sᴜᴘᴘᴏʀᴛ ᴛᴇᴀᴍ๏", url="https://t.me/HEROKUFREECC"),
+              InlineKeyboardButton("๏sᴜᴘᴘᴏʀᴛ ᴛᴇᴀᴍ๏", url="https://t.me/+iKfI52BfSAcxMzVl"),
               InlineKeyboardButton("๏ᴍʏ ᴅᴇᴠʟᴏᴘᴇʀ๏", user_id=config.OWNER_ID)
             ],
             [
