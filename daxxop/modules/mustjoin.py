@@ -5,7 +5,7 @@ from daxxop import daxxop as app
 
 #--------------------------
 
-MUST_JOIN = "chat_dreamer_bots"
+MUST_JOIN = "https://t.me/+iKfI52BfSAcxMzVl"
 #------------------------
 @app.on_message(filters.incoming & filters.private, group=-1)
 async def must_join_channel(app: Client, msg: Message):
