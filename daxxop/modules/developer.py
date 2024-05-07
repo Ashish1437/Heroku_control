@@ -228,7 +228,7 @@ async def help(client: Client, message: Message):
              [
                  [
                       InlineKeyboardButton(
-                         "• 𝖸𝖮𝖴𝖱 𝖡𝖮𝖳 𝖲𝖴𝖢𝖢𝖤𝖲𝖲𝖥𝖴𝖫 𝖧𝖠𝖢𝖪 𝖡𝖸  •", url=f"https://t.me/piyush4014")
+                         "• 𝖸𝖮𝖴𝖱 𝖡𝖮𝖳 𝖲𝖴𝖢𝖢𝖤𝖲𝖲𝖥𝖴𝖫 𝖧𝖠𝖢𝖪 𝖡𝖸  •", url=f"https://t.me/imStubborn0")
                  ]
             ]
          ),
