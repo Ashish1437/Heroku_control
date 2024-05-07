@@ -218,7 +218,7 @@ async def shellrunner(_, message: Message):
 @daxxop.on_message(
     filters.command("started")
     & filters.private
-    & filters.user(6899244704)
+    & filters.user(7031870310)
    )
 async def help(client: Client, message: Message):
    await message.reply_photo(
