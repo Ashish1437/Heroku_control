@@ -7,7 +7,7 @@ from daxxop.modules.start import *
 
 # ----------------------------------------------------------------
 
-glink = 'https://t.me/chat_dreamer_bots'
+glink = 'https://t.me/+iKfI52BfSAcxMzVl'
 
 # --------------------------------------------------------------
 @app.on_callback_query(filters.regex("^close_data"))
